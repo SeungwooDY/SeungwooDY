@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Seungwoo 👋
 
-<!--
-**SeungwooDY/SeungwooDY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me 😄
+I'm an undergrad student studying CS at UVA. 
+- 🌱 I’m currently learning MCP + PyTorch/TensorFlow
+- 👯 I’m open to collaborating on any fun side project or business idea! Reach me at sdyoon0701@gmail.com or tnp4kt@virginia.edu
 
-Here are some ideas to get you started:
+Outside of software, I love anything related to food, fitness, or pickleball. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect With Me
+<a href="https://www.linkedin.com/in/seungwoo-yoon/">
+    <button>LinkedIn</button>
+</a>
+
+### 🛠️ I'm Familiar With:
+- **Languages:** JavaScript, Python, Java, C, SQL, HTML/CSS
+- **Frameworks:** React, Node.js, Express.js,
+- **Tools:** Git/GitHub, Docker, AWS, GCP, 
