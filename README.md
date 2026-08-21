@@ -14,5 +14,5 @@ Outside of software, I love anything related to food, fitness, or pickleball.
 
 ### 🛠️ I'm Familiar With:
 - **Languages:** JavaScript, Python, Java, C, SQL, HTML/CSS
-- **Frameworks:** React, Node.js, Express.js,
-- **Tools:** Git/GitHub, Docker, AWS, GCP, 
+- **Frameworks:** React, Node.js, Express.js
+- **Tools:** Git/GitHub, Docker, AWS, GCP
